@@ -14,7 +14,7 @@ I build and harden server-side systems — REST APIs, database-backed apps, and 
 
 **[TaxPal](https://tax-pal-rho.vercel.app/)** — Financial management web app (MERN). Built REST API modules and JWT auth; audited and fixed structural/security issues in the codebase during my Infosys Springboard internship.
 
-**[Pell-RSA Homomorphic Encryption](https://github.com/Search-Prem/pell-rsa-homomorphic-encryption)** — Final-year academic project benchmarking Pell-based RSA homomorphic encryption against standard RSA across multiple key sizes (key generation, encryption methodology, performance benchmarking).
+**[Pell-RSA Homomorphic Encryption](https://pell-rsa-homomorphic.vercel.app/)** — Final-year academic project benchmarking Pell-based RSA homomorphic encryption against standard RSA across multiple key sizes (key generation, encryption methodology, performance benchmarking).
 
 **[Reminder App](https://reminderappbyprem.netlify.app/)** — Reminder/scheduling app with a REST API backed by MySQL, tested with Postman.
 
@@ -28,4 +28,4 @@ I build and harden server-side systems — REST APIs, database-backed apps, and 
 
 ## Elsewhere
 
-[Portfolio](https://your-portfolio-url-here) · [LinkedIn](https://linkedin.com/in/prem-kumar-garapati)
+[Portfolio]([https://your-portfolio-url-here](https://premkumargarapati-portfolio.vercel.app)) · [LinkedIn](https://linkedin.com/in/prem-kumar-garapati)
